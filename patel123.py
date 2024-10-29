@@ -19,7 +19,7 @@ def save_api_key(new_key):
         file.write(new_key)
 
 # Bot Token and API Key Configuration
-bot_token = "7927841285:AAEum9YFyWfT4-xpwSjX4O3bwzES6z0-yHk"  # Replace with your actual main bot token
+bot_token = "7927841285:AAG094sKCvss9xqYx2reZbsjAMJQA_z8uTQ"  # Replace with your actual main bot token
 segmind_api_key = load_api_key()  # Load the initial API key
 
 # Initialize the bot
